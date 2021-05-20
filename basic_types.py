@@ -23,4 +23,7 @@ def boot_ex(): # bool 자료형
     print("순차형:", bool([1, 2, 3,]), bool([]))
     print("Map:", bool({"a": 2}), bool({}))
     print("None", bool(None)) # None : 자바의 null과 비슷 -> 아무것도 할당되지 않은 상태
+
+    # Circuit Break
+
 if ___name__ == "__main__":
