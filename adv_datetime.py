@@ -51,4 +51,3 @@ def format_date():
     dt = datetime.datetime.strifttime(s, "%Y-%m-%d %H:%M:%S")
     print(dt, type(dt))
 
-    commit
